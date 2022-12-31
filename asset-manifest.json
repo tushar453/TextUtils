@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TexeUtils/static/css/main.dd37eea1.css",
+    "main.js": "/TexeUtils/static/js/main.752bb276.js",
+    "static/js/787.b1ed1a2b.chunk.js": "/TexeUtils/static/js/787.b1ed1a2b.chunk.js",
+    "static/media/logo.svg": "/TexeUtils/static/media/logo.259dfac8ad43264362213a60612ccff2.svg",
+    "index.html": "/TexeUtils/index.html",
+    "main.dd37eea1.css.map": "/TexeUtils/static/css/main.dd37eea1.css.map",
+    "main.752bb276.js.map": "/TexeUtils/static/js/main.752bb276.js.map",
+    "787.b1ed1a2b.chunk.js.map": "/TexeUtils/static/js/787.b1ed1a2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd37eea1.css",
+    "static/js/main.752bb276.js"
+  ]
+}
